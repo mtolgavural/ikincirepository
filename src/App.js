@@ -20,6 +20,7 @@ function App() {
         </p>
         <p>
           Git Github Öğreniyorum w/mtolgavural
+          Git Github Öğreniyorum w/tolga&tugbaa
         </p>
         <a
           className="App-link"
